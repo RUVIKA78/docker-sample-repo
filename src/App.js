@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h1>this is a react docker sample app 
+        <h1>this is a react docker sample app repo 
 
 
         </h1>
